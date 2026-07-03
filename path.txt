@@ -1,0 +1,17 @@
+folder structure --> MVC
+
+### Frontend
+
+
+### Backend
+
+npm init -y 
+npm i express
+
+add script in package.json
+ "dev": "nodemon app.js",
+
+in package.json change  the type --> "type": "module"
+
+create a Route app.js
+
